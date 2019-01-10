@@ -34,4 +34,8 @@ public class User {
     public User(){
         System.out.println("this is constructor");
     }
+    public User(String name,String pwd){
+        this.name=name;
+        this.pwd=pwd;
+    }
 }
