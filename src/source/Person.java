@@ -6,4 +6,5 @@ package source;
 public class Person {
     int id;
     String name,pwd;
+    float a,b;
 }
