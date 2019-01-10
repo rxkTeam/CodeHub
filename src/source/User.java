@@ -31,4 +31,7 @@ public class User {
     }
 
     float score;
+    public User(){
+        System.out.println("this is constructor");
+    }
 }
