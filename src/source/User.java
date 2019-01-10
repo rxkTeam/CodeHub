@@ -32,7 +32,7 @@ public class User {
 
     float score;
     public User(){
-        System.out.println("this is constructor");
+        System.out.println("this is constructor123");
     }
     public User(String name,String pwd){
         this.name=name;
