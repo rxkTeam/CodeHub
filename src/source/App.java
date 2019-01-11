@@ -9,5 +9,6 @@ public class App {
         for(int i=0;i<10;i++)
             System.out.println(i);
         User user=new User("rxk","111111");
+        System.out.println(user.getName()+","+user.getPwd());
     }
 }
