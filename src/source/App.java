@@ -5,7 +5,7 @@ package source;
  */
 public class App {
     public static void main(String args[]){
-        System.out.println("hello,world123456");
+        System.out.println("hello,123");
         for(int i=0;i<10;i++)
             System.out.println(i);
     }
